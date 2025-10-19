@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Full-Stack+Developer;Building+Better+Experiences)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=danie1le&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
 </div>
 
 ---
@@ -14,25 +12,18 @@
 
 I'm a **Computer Science student** at the **University of Portland** with a strong passion for software engineering. I love building reliable, well-structured applications and exploring designs that enhance everyday experiences.
 
-\`\`\`yaml
-current_focus: "Sharpening software engineering skills through projects & coursework"
-collaboration: "Open to full-stack or backend projects"
-architecture: "Clean code & maintainable systems"
-location: "Portland, OR"
-\`\`\`
-
 ---
 
 ## 🎯 What I'm Up To
 
 🔭 **Currently Working On**  
-Sharpening my software engineering skills through personal projects and coursework
+Sharpening my skills through personal projects and coursework
 
 👯 **Looking to Collaborate On**  
 Full-stack or backend projects that emphasize clean architecture and maintainable code
 
 💡 **Interests**  
-Software Design Patterns • System Architecture • Web Development • Problem Solving
+Software Development • Machine Learning • Problem Solving
 
 ---
 
@@ -56,15 +47,13 @@ Software Design Patterns • System Architecture • Web Development • Problem
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -86,30 +75,6 @@ Software Design Patterns • System Architecture • Web Development • Problem
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=danie1le&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danie1le&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danie1le&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="600"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danie1le&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 </div>
