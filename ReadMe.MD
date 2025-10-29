@@ -76,5 +76,4 @@ Software Development • Machine Learning • Problem Solving
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danie1le&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danie1le&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="600"/>
 </div>
