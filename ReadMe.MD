@@ -71,9 +71,3 @@ Software Development • Machine Learning • Problem Solving
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danie1le&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-</div>
