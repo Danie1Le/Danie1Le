@@ -29,7 +29,7 @@ Software Development • Machine Learning • Problem Solving
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danie1-le)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danie1le.github.io/)
